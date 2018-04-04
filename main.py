@@ -45,7 +45,7 @@ bot.escape_trans = str.maketrans({
     "~": "\~",
     "`": "\`",
     "\\": "\\\\"
-})  # used to escape a string, believed to be from kurisu?
+})  # used to escape a string
 
 
 # mostly taken from https://github.com/Rapptz/discord.py/blob/async/discord/ext/commands/bot.py
